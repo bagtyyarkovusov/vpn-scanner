@@ -1,0 +1,710 @@
+{
+  "version": 1,
+  "kitCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+  "skills": [
+    {
+      "name": "babysit-pr",
+      "set": "core"
+    },
+    {
+      "name": "council",
+      "set": "core"
+    },
+    {
+      "name": "file-pr",
+      "set": "core"
+    },
+    {
+      "name": "full-send",
+      "set": "core"
+    },
+    {
+      "name": "full-stop",
+      "set": "core"
+    },
+    {
+      "name": "leaving-pr-comments",
+      "set": "core"
+    },
+    {
+      "name": "modernize",
+      "set": "core"
+    },
+    {
+      "name": "sol-loop",
+      "set": "core"
+    },
+    {
+      "name": "takeover",
+      "set": "core"
+    },
+    {
+      "name": "grilling",
+      "set": "core"
+    },
+    {
+      "name": "grill-me",
+      "set": "core"
+    },
+    {
+      "name": "grill-with-docs",
+      "set": "core"
+    },
+    {
+      "name": "tdd",
+      "set": "core"
+    },
+    {
+      "name": "diagnosing-bugs",
+      "set": "core"
+    },
+    {
+      "name": "domain-modeling",
+      "set": "core"
+    },
+    {
+      "name": "prototype",
+      "set": "core"
+    },
+    {
+      "name": "to-spec",
+      "set": "core"
+    },
+    {
+      "name": "to-tickets",
+      "set": "core"
+    },
+    {
+      "name": "triage",
+      "set": "core"
+    },
+    {
+      "name": "retro",
+      "set": "core"
+    },
+    {
+      "name": "research",
+      "set": "core"
+    },
+    {
+      "name": "codebase-design",
+      "set": "core"
+    },
+    {
+      "name": "improve-codebase-architecture",
+      "set": "core"
+    },
+    {
+      "name": "handoff",
+      "set": "core"
+    },
+    {
+      "name": "ship-tickets",
+      "set": "core"
+    },
+    {
+      "name": "release",
+      "set": "core"
+    },
+    {
+      "name": "product-review",
+      "set": "core"
+    }
+  ],
+  "sets": [
+    "core"
+  ],
+  "extras": [],
+  "ci": false,
+  "kept": [],
+  "files": {
+    ".claude/skills/THIRD-PARTY-NOTICES.md": {
+      "sourcePath": "UPSTREAM.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "ea94f4673af5aef693784ea28deae2c597516d73540fd690d9bb053d0a9412c8",
+      "mode": 420
+    },
+    ".claude/skills/licenses/ehmo-platform-design-skills.LICENSE": {
+      "sourcePath": "licenses/ehmo-platform-design-skills.LICENSE",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+      "mode": 420
+    },
+    ".claude/skills/licenses/mattpocock-skills.LICENSE": {
+      "sourcePath": "licenses/mattpocock-skills.LICENSE",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "0e7ac423bf2c6e223b7c5b156f8cf72da49d748e56a1641402c31f22ad07dbb5",
+      "mode": 420
+    },
+    ".claude/skills/licenses/pbakaus-impeccable.LICENSE": {
+      "sourcePath": "licenses/pbakaus-impeccable.LICENSE",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "02bb8c3b4e70190e3986c0404ad2fd8d639b4f534252d82379cc1b502b6d1812",
+      "mode": 420
+    },
+    ".claude/skills/licenses/pbakaus-impeccable.NOTICE.md": {
+      "sourcePath": "licenses/pbakaus-impeccable.NOTICE.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "75b5b7e8dc40af0a471ca812a8ddd86af07dc8f6d01e03cb4078337facbcd185",
+      "mode": 420
+    },
+    ".claude/skills/licenses/t3dotgg-tstack.LICENSE": {
+      "sourcePath": "licenses/t3dotgg-tstack.LICENSE",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "8095f9a9f97d074131f6a2ce09b952d12c18b36f09f4e5df0517c4e64e82c851",
+      "mode": 420
+    },
+    ".claude/skills/licenses/wondelai-skills.LICENSE": {
+      "sourcePath": "licenses/wondelai-skills.LICENSE",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "87c3c90f9e673a76b8ca81049b8fe30996b910a7a80140c3ed57a2ee922d2579",
+      "mode": 420
+    },
+    ".claude/skills/babysit-pr/SKILL.md": {
+      "sourcePath": "skills/babysit-pr/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "fbe43ba3ab76a466a88ef8b46dca1b41fb8101347d24a396903849865173a6ac",
+      "mode": 420
+    },
+    ".claude/skills/babysit-pr/scripts/pr-wait": {
+      "sourcePath": "skills/babysit-pr/scripts/pr-wait",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "90393f85b95b78bff1b039744bdfb09dc88ff2b430e1c3df687ee6f449c97214",
+      "mode": 493
+    },
+    ".claude/skills/codebase-design/DEEPENING.md": {
+      "sourcePath": "skills/codebase-design/DEEPENING.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "f3dd099ce99289bd213914d8ee3e2429b78309c3957ca4583f7659551b1d53c1",
+      "mode": 420
+    },
+    ".claude/skills/codebase-design/DESIGN-IT-TWICE.md": {
+      "sourcePath": "skills/codebase-design/DESIGN-IT-TWICE.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "c222ab5a82e0405672eb9062d62496139a08828e45d07fc5f18e4952c10fac1a",
+      "mode": 420
+    },
+    ".claude/skills/codebase-design/SKILL.md": {
+      "sourcePath": "skills/codebase-design/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2",
+      "mode": 420
+    },
+    ".claude/skills/codebase-design/agents/openai.yaml": {
+      "sourcePath": "skills/codebase-design/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "edebc9e4fcfe102114012575eaa9600b9b5fd08c311664f389c36e7bc717740f",
+      "mode": 420
+    },
+    ".claude/skills/council/SKILL.md": {
+      "sourcePath": "skills/council/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "874f7a71a1cb190c98ac7159c269af2b71ad810063e42e23094f247616cc41f4",
+      "mode": 420
+    },
+    ".claude/skills/diagnosing-bugs/SKILL.md": {
+      "sourcePath": "skills/diagnosing-bugs/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "849198df88cdb65fd0d97236604c1fca7ff2f22d2f705f9724a800d0266b118d",
+      "mode": 420
+    },
+    ".claude/skills/diagnosing-bugs/agents/openai.yaml": {
+      "sourcePath": "skills/diagnosing-bugs/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "3e430dbe4334a87597488c060cb3dc3786bb00c9182877d6f5ec41f62490e90b",
+      "mode": 420
+    },
+    ".claude/skills/diagnosing-bugs/scripts/hitl-loop.template.sh": {
+      "sourcePath": "skills/diagnosing-bugs/scripts/hitl-loop.template.sh",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "35103539fc36873eea36074769ad454f9379d6fc8b2dc0e26ce987fd3bfe5503",
+      "mode": 420
+    },
+    ".claude/skills/domain-modeling/ADR-FORMAT.md": {
+      "sourcePath": "skills/domain-modeling/ADR-FORMAT.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0",
+      "mode": 420
+    },
+    ".claude/skills/domain-modeling/GLOSSARY-FORMAT.md": {
+      "sourcePath": "skills/domain-modeling/GLOSSARY-FORMAT.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "21dcc40cdec8e151a829b98ab1517c1867bc444e3665134a98c6983411996801",
+      "mode": 420
+    },
+    ".claude/skills/domain-modeling/SKILL.md": {
+      "sourcePath": "skills/domain-modeling/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3",
+      "mode": 420
+    },
+    ".claude/skills/domain-modeling/agents/openai.yaml": {
+      "sourcePath": "skills/domain-modeling/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b",
+      "mode": 420
+    },
+    ".claude/skills/file-pr/SKILL.md": {
+      "sourcePath": "skills/file-pr/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "174a7ae52e3b9d17f2bd0eaf0a11a89d744d1249164ecbdb0e642359eee75b1b",
+      "mode": 420
+    },
+    ".claude/skills/full-send/SKILL.md": {
+      "sourcePath": "skills/full-send/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "ba585e47cd901506b0e2de13025b0e39bc02462c136cf27491ad3efbdfe66020",
+      "mode": 420
+    },
+    ".claude/skills/full-send/agents/openai.yaml": {
+      "sourcePath": "skills/full-send/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "8a1e8ce04a774a8a2e469cecf5e45a9cec4d3438b4c587cf166c2f78206390d2",
+      "mode": 420
+    },
+    ".claude/skills/full-stop/SKILL.md": {
+      "sourcePath": "skills/full-stop/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "091dcabfcba73e009ddb8e32c498a993a6bb60f8c223d3e21e917f4e52ab9939",
+      "mode": 420
+    },
+    ".claude/skills/full-stop/agents/openai.yaml": {
+      "sourcePath": "skills/full-stop/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "6029e872a883aa06aad3426ab58289df016e4b0d23485719c71152603fec7d35",
+      "mode": 420
+    },
+    ".claude/skills/grill-me/SKILL.md": {
+      "sourcePath": "skills/grill-me/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
+      "mode": 420
+    },
+    ".claude/skills/grill-me/agents/openai.yaml": {
+      "sourcePath": "skills/grill-me/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
+      "mode": 420
+    },
+    ".claude/skills/grill-with-docs/SKILL.md": {
+      "sourcePath": "skills/grill-with-docs/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
+      "mode": 420
+    },
+    ".claude/skills/grill-with-docs/agents/openai.yaml": {
+      "sourcePath": "skills/grill-with-docs/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9",
+      "mode": 420
+    },
+    ".claude/skills/grilling/SKILL.md": {
+      "sourcePath": "skills/grilling/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "065bfa7d7829dd6d7069f94fb50156e88f1bb4be0139f0234718e796ee733e1f",
+      "mode": 420
+    },
+    ".claude/skills/grilling/agents/openai.yaml": {
+      "sourcePath": "skills/grilling/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b",
+      "mode": 420
+    },
+    ".claude/skills/handoff/SKILL.md": {
+      "sourcePath": "skills/handoff/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "4cbb043950dad2ffd3662ff1a5a0b51ae676004b5cae10e3787e8ee7a4ee69d3",
+      "mode": 420
+    },
+    ".claude/skills/handoff/agents/openai.yaml": {
+      "sourcePath": "skills/handoff/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "5c479fd562c691851690e8b18c8501045bef0943c10743d636b2fae26add1d28",
+      "mode": 420
+    },
+    ".claude/skills/improve-codebase-architecture/HTML-REPORT.md": {
+      "sourcePath": "skills/improve-codebase-architecture/HTML-REPORT.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "581e8bb5a521e46bbda8ca7e19b15948bed882187108092ebb90c62513b77528",
+      "mode": 420
+    },
+    ".claude/skills/improve-codebase-architecture/SKILL.md": {
+      "sourcePath": "skills/improve-codebase-architecture/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "35b03a3db61e0f5aa333ea59b54963e45a3d2ace6649b2ef4f9576603e2582a6",
+      "mode": 420
+    },
+    ".claude/skills/improve-codebase-architecture/agents/openai.yaml": {
+      "sourcePath": "skills/improve-codebase-architecture/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "c8cb20f68ebf0edb4e497bc11ae5fcaa196004e661cd189015b04f4109ced7f1",
+      "mode": 420
+    },
+    ".claude/skills/leaving-pr-comments/SKILL.md": {
+      "sourcePath": "skills/leaving-pr-comments/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "1d110343022d0514c101dd942286cce10d6b9f5bd5b899f5a0530620d34cd295",
+      "mode": 420
+    },
+    ".claude/skills/leaving-pr-comments/agents/openai.yaml": {
+      "sourcePath": "skills/leaving-pr-comments/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "f89fa0d9ae1c3e973b3e9ecb50549faee62fd1a0e59973bade68802c74183fdb",
+      "mode": 420
+    },
+    ".claude/skills/modernize/SKILL.md": {
+      "sourcePath": "skills/modernize/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "6172d774c46f535367086da90db1b0aaaaac969ed05ff040444f9afa9a6b1552",
+      "mode": 420
+    },
+    ".claude/skills/modernize/agents/openai.yaml": {
+      "sourcePath": "skills/modernize/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "6675e91e10f2b264fe1a027072f6d9f46299f781011e248a5ba075fc1f764e09",
+      "mode": 420
+    },
+    ".claude/skills/product-review/SKILL.md": {
+      "sourcePath": "skills/product-review/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "d0051d13713f52c066b6ded000e368739961ae50ebf4fb76d92c72226c077af6",
+      "mode": 420
+    },
+    ".claude/skills/prototype/LOGIC.md": {
+      "sourcePath": "skills/prototype/LOGIC.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "f61c7d249e786a79ef289018901c348271e1798dd0b0bc5607b5c6f4d4a01ab9",
+      "mode": 420
+    },
+    ".claude/skills/prototype/SKILL.md": {
+      "sourcePath": "skills/prototype/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "714de632d116bb73f65cdb5a882db15b9369a6713b9a47c0fad827848f0bfbe3",
+      "mode": 420
+    },
+    ".claude/skills/prototype/UI.md": {
+      "sourcePath": "skills/prototype/UI.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "723211e878acbc7b6ff09755263f3295cde724ba902ff0064da41eed51d45ad3",
+      "mode": 420
+    },
+    ".claude/skills/prototype/agents/openai.yaml": {
+      "sourcePath": "skills/prototype/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "5af65e43ab41a350436697b81e27b7f848d36782043b73c322bb2c9fa9cc55dc",
+      "mode": 420
+    },
+    ".claude/skills/release/SKILL.md": {
+      "sourcePath": "skills/release/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "4adc83847ffe572c9dd9356d35978397f9ede49ca132e72e5bacf14bc2d59e27",
+      "mode": 420
+    },
+    ".claude/skills/research/SKILL.md": {
+      "sourcePath": "skills/research/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "1f629e18ab899412683bc6a1c4efb4339999e27c2fdac328f26ee10a8c031d33",
+      "mode": 420
+    },
+    ".claude/skills/research/agents/openai.yaml": {
+      "sourcePath": "skills/research/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "9b4c470d63221c1f68f22df70b83e2f12401b317babe0d1b7b5f24a974474d0d",
+      "mode": 420
+    },
+    ".claude/skills/retro/SKILL.md": {
+      "sourcePath": "skills/retro/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "33fbc28568e3146f20fd908b12998bc0ab30aa4f4c87288199a40793efa94696",
+      "mode": 420
+    },
+    ".claude/skills/retro/agents/openai.yaml": {
+      "sourcePath": "skills/retro/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "cb6fb9d7e6b4be5975f41f6def1dd00a1255bad5d9b02696b124c924a8b8745c",
+      "mode": 420
+    },
+    ".claude/skills/ship-tickets/SKILL.md": {
+      "sourcePath": "skills/ship-tickets/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "6d2b156779045d675fb8875b93f00e6484063e5a3a3d4e8bb61e0fcdf396439a",
+      "mode": 420
+    },
+    ".claude/skills/sol-loop/SKILL.md": {
+      "sourcePath": "skills/sol-loop/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "b7cd248debffbcbadd9e8b60e1869c1c3639c0d73a1bfbe5a8e1a4804bda4688",
+      "mode": 420
+    },
+    ".claude/skills/takeover/SKILL.md": {
+      "sourcePath": "skills/takeover/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "9f00a7c67bf82603af2e80f56e9ce63f1516a1b4339365b79cf786d9d9055465",
+      "mode": 420
+    },
+    ".claude/skills/tdd/SKILL.md": {
+      "sourcePath": "skills/tdd/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "5505d25bbaa8fc14a79e4d20163936958992a2995b7f1dd1d6197edc9ed722e0",
+      "mode": 420
+    },
+    ".claude/skills/tdd/agents/openai.yaml": {
+      "sourcePath": "skills/tdd/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "ea6f01cf1b8c06a4b0f5b649d74b1b8ce8685e72af1b38d70d877693e092af0b",
+      "mode": 420
+    },
+    ".claude/skills/tdd/mocking.md": {
+      "sourcePath": "skills/tdd/mocking.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
+      "mode": 420
+    },
+    ".claude/skills/tdd/tests.md": {
+      "sourcePath": "skills/tdd/tests.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a",
+      "mode": 420
+    },
+    ".claude/skills/to-spec/SKILL.md": {
+      "sourcePath": "skills/to-spec/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "32ff691bdab675bdaa4e5c118cb94dc1bb4b712ad74da0af1ae579a4804e63de",
+      "mode": 420
+    },
+    ".claude/skills/to-spec/agents/openai.yaml": {
+      "sourcePath": "skills/to-spec/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "1c5b4d1e3d8e52287ef19cc2742fdbbfae1914ac75d33af3e4c8174f08cc55bb",
+      "mode": 420
+    },
+    ".claude/skills/to-tickets/SKILL.md": {
+      "sourcePath": "skills/to-tickets/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "22ea9aa89af0216545db4f0356997eb5ac5f2fc0dd1a99fa2454d6173f913308",
+      "mode": 420
+    },
+    ".claude/skills/to-tickets/agents/openai.yaml": {
+      "sourcePath": "skills/to-tickets/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "21bc6215fffcd7614e9f772bb1760e87cc5fc7dcc707e7d282bc9414267a6090",
+      "mode": 420
+    },
+    ".claude/skills/triage/AGENT-BRIEF.md": {
+      "sourcePath": "skills/triage/AGENT-BRIEF.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "7f5f87fed3033df1b06e083c480f3e847b1fbb0647746b8a4c6a50f9f26ef44f",
+      "mode": 420
+    },
+    ".claude/skills/triage/OUT-OF-SCOPE.md": {
+      "sourcePath": "skills/triage/OUT-OF-SCOPE.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "1fbf9b432130c6380aa65813b55553cfda150309b27c595e183f8e335b8a190d",
+      "mode": 420
+    },
+    ".claude/skills/triage/SKILL.md": {
+      "sourcePath": "skills/triage/SKILL.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "917b0baf74be583e74f110857ed45df2766617f75c00baf61fd136d7af515edf",
+      "mode": 420
+    },
+    ".claude/skills/triage/agents/openai.yaml": {
+      "sourcePath": "skills/triage/agents/openai.yaml",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "2e683717720cf456d165d0bb1a68bb600d0b6a8ccb61841c172e50d26f95351c",
+      "mode": 420
+    },
+    ".github/pull_request_template.md": {
+      "sourcePath": "templates/project/.github/pull_request_template.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "1ea38b66671b6337a88f3c22a970c66435837e3183af524b230db07bc7bbcc94",
+      "mode": 420
+    },
+    "AGENTS.md": {
+      "sourcePath": "templates/project/AGENTS.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "f16ca390e3569a3a016fa10acf44c774e59443924a49b47e98d61d4aea0d09a7",
+      "mode": 420
+    },
+    "CLAUDE.md": {
+      "sourcePath": "templates/project/CLAUDE.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "b228feb6caf82bf7c10ea041be2874733893e02cef5774ca0daff70be00c44ee",
+      "mode": 420
+    },
+    "docs/agents/coding-standards.md": {
+      "sourcePath": "templates/project/docs/agents/coding-standards.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "a887fff4722ad071d72f11d51d1618928bbba3d6049755058f4a9c6c94c2e641",
+      "mode": 420
+    },
+    "docs/agents/coding-workflow.md": {
+      "sourcePath": "templates/project/docs/agents/coding-workflow.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "ff9b4779450c2ea2b67ddfb079e87dbf5a86ae441a74651445900796c815d262",
+      "mode": 420
+    },
+    "docs/agents/documentation-lookups.md": {
+      "sourcePath": "templates/project/docs/agents/documentation-lookups.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "f4a355f285e6afecfa35c4882c5c20f1774b98ac60b42264fd054a689b25caad",
+      "mode": 420
+    },
+    "docs/agents/domain.md": {
+      "sourcePath": "templates/project/docs/agents/domain.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "22df713ee9821181ede01c7ac4241925c5ecf1a4064e98bab9a358d3dee93e56",
+      "mode": 420
+    },
+    "docs/agents/environment.md": {
+      "sourcePath": "templates/project/docs/agents/environment.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "000018f9502b471dd2bef1d35df5f853593ebafd07739effddd8def57480b6ba",
+      "mode": 420
+    },
+    "docs/agents/github-operations.md": {
+      "sourcePath": "templates/project/docs/agents/github-operations.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "0bb1bdbf544d53a5be3cf58d67b9909a3c95430dc153145499bf968de865d935",
+      "mode": 420
+    },
+    "docs/agents/issue-tracker.md": {
+      "sourcePath": "templates/project/docs/agents/issue-tracker.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "2500f31c202b81b3d480a07e66026c93e8aefb4c832ee2229f50e7bceacd256a",
+      "mode": 420
+    },
+    "docs/agents/local-testing.md": {
+      "sourcePath": "templates/project/docs/agents/local-testing.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "89374f8e950ffcfb13eb59e95ddb559c67be5bc61cab53a1a9fa487c792a7917",
+      "mode": 420
+    },
+    "docs/agents/models.md": {
+      "sourcePath": "templates/project/docs/agents/models.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "784231444a2aa261f50a5d485ec59ad2b2c1fc49638f156d197fd656717d0c16",
+      "mode": 420
+    },
+    "docs/agents/triage-labels.md": {
+      "sourcePath": "templates/project/docs/agents/triage-labels.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "91b35735b680015a8e9ada5bcc85b574e0491ff79438d529446a20ae14c5b62f",
+      "mode": 420
+    },
+    "docs/lifecycle/README.md": {
+      "sourcePath": "templates/project/docs/lifecycle/README.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "bf18e4e451124be0e68852c579b437ab63b91f8770063a5ede1104076f03a57e",
+      "mode": 420
+    },
+    "docs/lifecycle/architecture.md": {
+      "sourcePath": "templates/project/docs/lifecycle/architecture.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "9a416eedd5e2f8ed0a57ee01efa020c6a0e3139ea20cebc39ab85f76768dbe23",
+      "mode": 420
+    },
+    "docs/lifecycle/backups.md": {
+      "sourcePath": "templates/project/docs/lifecycle/backups.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "3f9af36916e52c6e9e218efdbffb96de7e094f03ea9f2a8a070149bce6f9efd0",
+      "mode": 420
+    },
+    "docs/lifecycle/feedback.md": {
+      "sourcePath": "templates/project/docs/lifecycle/feedback.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "6601bd339b33fdbf1ed5dd892937e3caf9068c9ee2f7a23138795f10114c49bc",
+      "mode": 420
+    },
+    "docs/lifecycle/incident-runbook.md": {
+      "sourcePath": "templates/project/docs/lifecycle/incident-runbook.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "12a9842742eacf4afb3377906b2f182dd20e8e9d70810d84d3fbd3fbf249522a",
+      "mode": 420
+    },
+    "docs/lifecycle/incidents.md": {
+      "sourcePath": "templates/project/docs/lifecycle/incidents.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "c97a82dc967fa4f979eab149f25ad1a2029cdd3f89cf8e0db45a44d8fbdcd281",
+      "mode": 420
+    },
+    "docs/lifecycle/launch-checklist.md": {
+      "sourcePath": "templates/project/docs/lifecycle/launch-checklist.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "5dfd0d0a7aab177339d637430d536d7ad6b02a1c366b5d1b7c78ec04d18e914d",
+      "mode": 420
+    },
+    "docs/lifecycle/maintenance.md": {
+      "sourcePath": "templates/project/docs/lifecycle/maintenance.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "5efd561f9427b594cfbadb334349afaf68c4ddbc7a55894abe660396f4daf1c1",
+      "mode": 420
+    },
+    "docs/lifecycle/mvp-testing.md": {
+      "sourcePath": "templates/project/docs/lifecycle/mvp-testing.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "91aa4c4bcce5d90786a854bd8f253738a2c6ac99943dc0b1b2462da365ab47bc",
+      "mode": 420
+    },
+    "docs/lifecycle/observability.md": {
+      "sourcePath": "templates/project/docs/lifecycle/observability.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "8329a9977fc22c8ab8c3fac0e93a675669dcac99c2a5e73d2d53a8151453fe8a",
+      "mode": 420
+    },
+    "docs/lifecycle/postmortem.md": {
+      "sourcePath": "templates/project/docs/lifecycle/postmortem.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "06414680fee451ae554efa09f2b00ec4c7f8a8cb4649ef2155f96a42c0cdf051",
+      "mode": 420
+    },
+    "docs/lifecycle/qa.md": {
+      "sourcePath": "templates/project/docs/lifecycle/qa.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "1d2d5a8684aedc19279daf3f2954469f5f7a0739b2672e6e207fe44021ada8b9",
+      "mode": 420
+    },
+    "docs/lifecycle/release.md": {
+      "sourcePath": "templates/project/docs/lifecycle/release.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "8c889c0501f556bdfcfe9ffd9044b34605f35624bb1eb0255d71d972c18dfb75",
+      "mode": 420
+    },
+    "docs/lifecycle/scope.md": {
+      "sourcePath": "templates/project/docs/lifecycle/scope.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "0de6d0b133fd2f3948d6facab0566a34406385105843c9c7b531e7da108a8807",
+      "mode": 420
+    },
+    "docs/lifecycle/security.md": {
+      "sourcePath": "templates/project/docs/lifecycle/security.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "b18e8ed70a4ae1199df1625f4f026e22ba77b344fbbe3f0330762af020be8da3",
+      "mode": 420
+    },
+    "docs/lifecycle/spec-scope-block.md": {
+      "sourcePath": "templates/project/docs/lifecycle/spec-scope-block.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "cdf203da777700dafc1ee3bc4897b1f1c473964fbba3d18f15d9b5ae20d53208",
+      "mode": 420
+    },
+    "docs/lifecycle/sunset.md": {
+      "sourcePath": "templates/project/docs/lifecycle/sunset.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "03f1b315d4c05865daf9d49d0a999949eead6d149c36a6160b4fde4c5792f3fc",
+      "mode": 420
+    },
+    "docs/lifecycle/validation-brief.md": {
+      "sourcePath": "templates/project/docs/lifecycle/validation-brief.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "262962855a323850555cb0dea6709da4c10fc5a44e92d37cc69d63a795b536f3",
+      "mode": 420
+    },
+    "docs/lifecycle/validation.md": {
+      "sourcePath": "templates/project/docs/lifecycle/validation.md",
+      "sourceCommit": "381651050f3d076fb35ae9d55ffac7785cc61298",
+      "hash": "d71324027db8daf129ed4877c570d82178d8021e4ecfa87ee037a65270f1d851",
+      "mode": 420
+    }
+  }
+}
