@@ -5,13 +5,15 @@ Keep model selection separate from the [delivery workflow](coding-workflow.md).
 
 ## Default model
 
-Use Sol 6.1 (`gpt-6.1-sol`, Codex provider) for all agent work, including
-implementation, research, `sol-loop` review and `babysit-pr` fixes.
-Keep this version until the founder changes it.
-Use Opus 5.5 (`claude-opus-5-5`) only for `council` or when the founder names it.
-An Opus session delegates implementation, research and review to Sol through
-`delegate_task`, rather than starting Opus subagents.
-If Sol is unavailable, ask; never silently switch.
+Project override, founder decision 2026-11-10: use Claude for all agent work for
+now, including implementation, research, `sol-loop` review and `babysit-pr` fixes.
+Delegates run on the session's own Claude model.
+Reason: the Codex provider failed its capability check on the founder's machine
+that day (app-server exits on a missing `@openai/codex-darwin-arm64` dependency).
+Sol 6.1 (`gpt-6.1-sol`, Codex provider) stays the intended model for later
+analysis. Return to it only when the founder says so and the provider passes the
+capability check.
+If Claude is unavailable, ask; never silently switch.
 
 ## Effort
 
@@ -35,5 +37,5 @@ Use these members at `high` effort:
 - Opus 5.5: `claude-opus-5-5`, Claude provider.
 - Muse Wonder 1.0: `muse-wonder-1.0`, Muse Code provider.
 
-If Opus or Muse is unavailable, run with reachable members and name the missing ones.
-Sol is required; its unavailability follows the default-model rule above.
+If a member is unavailable, run with reachable members and name the missing ones.
+While the override above is in force, that includes Sol.
